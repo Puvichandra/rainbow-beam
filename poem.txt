@@ -4,3 +4,4 @@ pink
 red
 green purple
 violet
+All colors
